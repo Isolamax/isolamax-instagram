@@ -1,10 +1,171 @@
 [
   {
-    "post": 0,
-    "quando": "2026-10-19T12:00:00-03:00",
+    "post": 5,
+    "titulo": "Reel \"PIR x EPS na telha\" (storyboard A, reorientado em 13/10)",
+    "quando": "2026-10-20T12:15:00-03:00",
+    "legenda": "Na telha sanduíche, o PIR isola mais que o isopor. E dá para ver no número da ficha.\n\nO núcleo PIR das Isotelhas Kingspan tem 0,022 W/m·K de condutividade térmica.\nO EPS (isopor) fica entre 0,035 e 0,042 W/m·K nos tipos 3 a 7.\nQuanto menor o número, menos calor atravessa: para isolar como 30 mm de PIR, o EPS precisaria de 48 a 57 mm.\n\nE a telha ainda pode vir com o forro pronto em aço, que dispensa forro adicional.\n\nO isopor continua sendo a escolha certa na laje e no baldrame, e ele é feito aqui, na nossa fábrica em Campinas.\n\nManda para quem está orçando a cobertura 👷\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhasanduiche #isotelha #poliisocianurato #isolamentotermico #coberturametalica",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post05/video.mp4"
+    ],
+    "capa": "midia/post05/capa.jpg"
+  },
+  {
+    "post": 3,
+    "titulo": "Carrossel \"EPS: qual densidade para cada uso\"",
+    "quando": "2026-10-21T11:30:00-03:00",
+    "legenda": "Pedir \"isopor\" sem dizer a densidade é como pedir concreto sem dizer o fck. São 7 tipos, de 10 a 32,4 kg/m³.\n\nA pergunta que decide: vai ter carga em cima?\nPiso e contrapiso pedem densidade mais alta, a partir de cerca de 20 kg/m³, pela resistência à compressão do projeto.\nForro e enchimento sem carga ficam bem com densidade menor, e o custo cai.\n\nEm fachada, forro e ambiente fechado, especifique EPS classe F, com retardante de chama.\n\nFabricamos em Campinas, com corte a fio quente e CNC na modulação da obra. Mande a aplicação, a medida e a quantidade no WhatsApp (19) 3276-3660 que a gente indica o tipo.\n\nEntrega em Campinas e região.\n\n#epsisopor #isoporsobmedida #lajetrelicada #baldrame #construcaocivil",
+    "status": "agendado",
+    "tipo": "carrossel",
+    "midias": [
+      "midia/post03/01.jpg",
+      "midia/post03/02.jpg",
+      "midia/post03/03.jpg",
+      "midia/post03/04.jpg",
+      "midia/post03/05.jpg",
+      "midia/post03/06.jpg",
+      "midia/post03/07.jpg"
+    ]
+  },
+  {
+    "post": 7,
+    "titulo": "Reel \"Isotelha Colonial\" (plano B, decisão do dono em 14/10)",
+    "quando": "2026-10-22T12:15:00-03:00",
+    "legenda": "Telha sanduíche colonial: o desenho da telha colonial, com isolamento e forro numa peça só.\n\nPor fora, aço. No meio, núcleo PIR de 40 mm, com 0,022 W/m·K de condutividade térmica. Por dentro, o forro em aço, que já é o acabamento do teto.\n\nMonte o telhado no simulador e veja na hora a lista de materiais com preço.\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhasanduiche #telhacolonial #telhatermica #kingspan #isolamentotermico",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post07/video.mp4"
+    ],
+    "capa": "midia/post07/capa.jpg"
+  },
+  {
+    "post": 6,
+    "titulo": "Carrossel \"Revendedor autorizado Kingspan: 5 coisas que mudam na obra\"",
+    "quando": "2026-10-23T11:30:00-03:00",
+    "legenda": "Comprar Kingspan num revendedor autorizado muda 5 coisas na obra, e a nº 2 é a que destrava a aprovação interna.\n\n1. Produto original Kingspan Isoeste, com ficha técnica e manual de instalação.\n2. Orçamento formal em PDF, com itens, frete, condições e a ficha do fabricante.\n3. Faturamento para CNPJ: Pix, cartão ou boleto faturado, sujeito à análise de cadastro.\n4. Telhas e painéis no comprimento do projeto.\n5. Entrega na obra em todo o Brasil, direto da fábrica.\n\nMande para quem faz as compras da sua empresa.\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\n#kingspan #kingspanisoeste #construtora #telhatermica",
+    "status": "agendado",
+    "tipo": "carrossel",
+    "midias": [
+      "midia/post06/01.jpg",
+      "midia/post06/02.jpg",
+      "midia/post06/03.jpg",
+      "midia/post06/04.jpg",
+      "midia/post06/05.jpg",
+      "midia/post06/06.jpg",
+      "midia/post06/07.jpg"
+    ]
+  },
+  {
+    "post": 9,
+    "titulo": "Reel \"Da fundação ao telhado\" (já existe)",
+    "quando": "2026-10-26T12:15:00-03:00",
+    "legenda": "Da fundação ao telhado: em 60 segundos, o material certo para cada uma das 10 etapas da obra.\n\nBaldrame em EPS, EPS no nivelamento do piso, parede KingWall® em PIR, lã de rocha nas divisórias, tubo elastomérico no ar-condicionado, lajotas de EPS na laje, forro de isopor e lã de vidro, TermoLaje no terraço, Isotelha® Colonial na cobertura e brises e ripados na fachada.\n\nManda para quem está fechando os materiais da próxima obra.\n📲 WhatsApp (19) 3276-3660\n🛒 loja.isolamax.com.br\n\nLinha Kingspan com entrega em todo o Brasil. EPS, lãs e isolamento técnico com entrega em Campinas e região.\n\n#construcaocivil #isolamentotermico #construtora #etapasdaobra",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post09/video.mp4"
+    ],
+    "capa": "midia/post09/capa.jpg"
+  },
+  {
+    "post": 10,
+    "titulo": "Carrossel \"Quantas Isotelhas vão no telhado?\"",
+    "quando": "2026-10-27T11:30:00-03:00",
+    "legenda": "Galpão de 15 m com 2 águas de 5 m leva 30 Isotelhas. A conta cabe em 4 passos, e vale salvar para a próxima.\n\n1. Peças por água: o beiral em metros, arredondado para cima. A largura útil é de 1000 mm.\n2. Comprimento da peça: o caimento da água, medido em cima do telhado, do beiral à cumeeira. Até 12 m com forro (Aço/Aço) e 7 m sem forro (Aço/Filme).\n3. Água maior que a peça: duas peças, com transpasse de 250 mm.\n4. Confira a inclinação (mínimo de 6%) e o vão entre as terças: até 2,3 m nas telhas com forro de 20 e 30 mm, e até 3 m na de 50 mm.\n\nCumeeira, rufos e parafusos o simulador calcula junto, com preço:\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#isotelha #telhasanduiche #galpao #orcamentodeobra #coberturametalica",
+    "status": "agendado",
+    "tipo": "carrossel",
+    "midias": [
+      "midia/post10/01.jpg",
+      "midia/post10/02.jpg",
+      "midia/post10/03.jpg",
+      "midia/post10/04.jpg",
+      "midia/post10/05.jpg",
+      "midia/post10/06.jpg",
+      "midia/post10/07.jpg"
+    ]
+  },
+  {
+    "post": 4,
+    "titulo": "Estático \"Oferta de Outubro\" (pronta)",
+    "quando": "2026-10-28T12:00:00-03:00",
+    "legenda": "Isotelha Trapezoidal 30 mm com forro branco a partir de R$ 142,90/m² no Pix, só até 31/10.\n\nSão duas versões em oferta, as duas com núcleo PIR de 30 mm e forro em aço branco:\n• galvalume com forro Branco Neve, aço 0,43: de R$ 224,79 por R$ 142,90/m² no Pix;\n• branca com forro branco, aço 0,38: R$ 159,90/m² no Pix (o riscado de R$ 224,52 é o da versão 0,43 mm).\nCobre, isola e já é o teto. No cartão, em até 12x, com juros da operadora.\n\nVeja no simulador quanto dá o seu telhado com o preço da oferta:\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhatermica #telhasanduiche #isotelha",
+    "status": "agendado",
     "tipo": "imagem",
-    "legenda": "Teste técnico do publicador (nunca publicado: status teste).",
-    "midias": ["midia/teste/01.jpg"],
-    "status": "teste"
+    "midias": [
+      "midia/post04/01.jpg"
+    ]
+  },
+  {
+    "post": 8,
+    "titulo": "Carrossel \"Simulador: orçamento de telhado em 4 passos\" (pronta)",
+    "quando": "2026-10-29T11:30:00-03:00",
+    "legenda": "Orçamento de telhado sem esperar retorno: 4 passos no simulador, com a lista de materiais e o preço da loja.\n\n1. Escolha a forma do telhado e informe as medidas. Se preferir, marque no satélite ou na planta.\n2. Confira a maquete em 3D, com a telha e os acabamentos que você escolheu.\n3. Receba a lista de telhas, acabamentos e parafusos com quantidade e preço.\n4. Feche do seu jeito: WhatsApp, orçamento em PDF (com o CNPJ da empresa) ou compra online.\n\nA lista traz só os produtos da loja: calhas ficam de fora.\n\nSalve para o próximo orçamento:\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhatermica #orcamentodeobra #isotelha #construtora",
+    "status": "agendado",
+    "tipo": "carrossel",
+    "midias": [
+      "midia/post08/01.jpg",
+      "midia/post08/02.jpg",
+      "midia/post08/03.jpg",
+      "midia/post08/04.jpg",
+      "midia/post08/05.jpg"
+    ]
+  },
+  {
+    "post": 12,
+    "titulo": "Carrossel \"Isotelha Colonial: ficha rápida\"",
+    "quando": "2026-10-30T11:30:00-03:00",
+    "legenda": "Isotelha Colonial em números: U de 0,55 W/m²·K, 40 mm de PIR em média e 9,10 kg/m². Salve a ficha para o projeto.\n\nO ponto que mais pega na especificação: a inclinação mínima é de 15% (para águas de até 14,7 m), bem acima dos 6% da trapezoidal. E o vão entre apoios é de 1750 mm.\n\nAs peças vêm de 1750 a 7350 mm, em múltiplos de 350 mm. Por cima, Terracota, Marfim ou Cinza Ardósia; por baixo, o forro em aço já é o acabamento do teto.\n\nMonte o telhado colonial e veja a lista com preço:\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhacolonial #isotelha #telhasanduiche #construtora",
+    "status": "agendado",
+    "tipo": "carrossel",
+    "midias": [
+      "midia/post12/01.jpg",
+      "midia/post12/02.jpg",
+      "midia/post12/03.jpg",
+      "midia/post12/04.jpg",
+      "midia/post12/05.jpg",
+      "midia/post12/06.jpg"
+    ]
+  },
+  {
+    "post": 14,
+    "titulo": "Carrossel \"KingWall: a parede em PIR, espessura por espessura\"",
+    "quando": "2026-11-04T11:30:00-03:00",
+    "legenda": "KingWall em 6 espessuras, de 32 a 150 mm: veja peso, U e vão máximo de cada uma antes de especificar a parede.\n\nÉ a parede isotérmica da Kingspan: núcleo de PIR AP com 0,022 W/m·K entre chapas de aço com primer, com encaixe macho-fêmea. A face lisa recebe pintura, textura, gesso acartonado, cerâmica ou porcelanato.\n\nDois cuidados no projeto: a de 32 mm é só para divisória interna, sem vento, e a carga de vento deve ser analisada para a região da obra.\n\nMande a planta ou as medidas das paredes no WhatsApp (19) 3276-3660 que a gente monta o orçamento formal em PDF.\n\nRevendedor autorizado Kingspan.\n\n#kingwall #kingspanisoeste #paineltermico #construcaoindustrializada",
+    "status": "agendado",
+    "tipo": "carrossel",
+    "midias": [
+      "midia/post14/01.jpg",
+      "midia/post14/02.jpg",
+      "midia/post14/03.jpg",
+      "midia/post14/04.jpg",
+      "midia/post14/05.jpg",
+      "midia/post14/06.jpg",
+      "midia/post14/07.jpg"
+    ]
+  },
+  {
+    "post": 15,
+    "titulo": "Estático \"6 dados para o orçamento de cobertura\"",
+    "quando": "2026-11-05T12:00:00-03:00",
+    "legenda": "6 dados que fazem o orçamento de cobertura sair certo de primeira. Salve e mande para quem mede a obra.\n\n1. Forma do telhado: 1, 2, 3 ou 4 águas, em L ou em T.\n2. Medidas em metros: beiral e caimento de cada água, ou a planta de cobertura.\n3. Inclinação, em % ou graus.\n4. Telha: modelo, espessura do núcleo, cor e forro.\n5. Estrutura: aço, madeira ou concreto. É ela que define o parafuso.\n6. CEP da obra e CNPJ, para o frete e para faturar na empresa.\n\nCom isso em mãos, o simulador monta a lista com preço na hora:\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\n#orcamentodeobra #telhatermica #construtora #coberturametalica",
+    "status": "agendado",
+    "tipo": "imagem",
+    "midias": [
+      "midia/post15/01.jpg"
+    ]
+  },
+  {
+    "post": 16,
+    "titulo": "Reel \"TermoLaje: a placa que protege a impermeabilização\" (storyboard D)",
+    "quando": "2026-11-06T12:15:00-03:00",
+    "legenda": "A manta da laje exposta trabalha com o sol todo dia. A TermoLaje fica por cima e serve de barreira térmica.\n\nÉ EPS de alta densidade (38 kg/m³) com aditivo retardante à chama, em placas de 500 × 1000 × 25 mm. Reduz a variação de temperatura sobre a impermeabilização, evita deformações e prolonga a vida útil da manta.\n\nCondutividade de 0,034 W/m·K, compressão de 276 kPa a 10% de deformação e absorção de água de 2% em volume.\n\nManda para quem cuida da impermeabilização da obra.\n📲 WhatsApp (19) 3276-3660\n🛒 loja.isolamax.com.br\nEntrega em todo o Brasil.\n\n#termolaje #impermeabilizacao #epsisopor #isolamentotermico",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post16/video.mp4"
+    ],
+    "capa": "midia/post16/capa.jpg"
   }
 ]
