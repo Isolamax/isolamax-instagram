@@ -1,0 +1,10 @@
+[
+  {
+    "post": 0,
+    "quando": "2026-10-19T12:00:00-03:00",
+    "tipo": "imagem",
+    "legenda": "Teste técnico do publicador (nunca publicado: status teste).",
+    "midias": ["midia/teste/01.jpg"],
+    "status": "teste"
+  }
+]
