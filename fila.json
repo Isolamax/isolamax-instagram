@@ -30,9 +30,9 @@
   },
   {
     "post": 7,
-    "titulo": "Reel \"Isotelha Colonial\" (plano B, decisão do dono em 14/10)",
+    "titulo": "Reel \"Isotelha Colonial\" v2 (aprovado pelo dono em 19/10)",
     "quando": "2026-10-22T12:15:00-03:00",
-    "legenda": "Telha sanduíche colonial: o desenho da telha colonial, com isolamento e forro numa peça só.\n\nPor fora, aço. No meio, núcleo PIR de 40 mm, com 0,022 W/m·K de condutividade térmica. Por dentro, o forro em aço, que já é o acabamento do teto.\n\nMonte o telhado no simulador e veja na hora a lista de materiais com preço.\n🛒 loja.isolamax.com.br/simulador\n📲 WhatsApp (19) 3276-3660\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhasanduiche #telhacolonial #telhatermica #kingspan #isolamentotermico",
+    "legenda": "Telha sanduíche colonial com núcleo PIR de 40 mm: o desenho da telha colonial e um isolante que segura o calor do sol.\n\nA Isotelha Colonial, da Kingspan Isoeste, tem três camadas: aço galvalume por fora, o núcleo PIR (0,022 W/m·K) no meio e o forro em aço por baixo, que já é o acabamento do teto.\n\nPor cima, Terracota, Marfim ou Cinza Ardósia. O forro vem Branco, Preto, Madeira Clara ou Madeira Escura.\n\nManda para quem está escolhendo a cobertura da casa.\nMonte o telhado no simulador e veja a lista com preço: loja.isolamax.com.br/simulador\nOu chame no WhatsApp (19) 3276-3660.\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhasanduiche #telhacolonial #telhatermica #isotelha #kingspan",
     "status": "agendado",
     "tipo": "reel",
     "midias": [
@@ -59,9 +59,9 @@
   },
   {
     "post": 9,
-    "titulo": "Reel \"Da fundação ao telhado\" (já existe)",
+    "titulo": "Reel \"Etapas da obra\" v2 (aprovado pelo dono em 19/10)",
     "quando": "2026-10-26T12:15:00-03:00",
-    "legenda": "Da fundação ao telhado: em 60 segundos, o material certo para cada uma das 10 etapas da obra.\n\nBaldrame em EPS, EPS no nivelamento do piso, parede KingWall® em PIR, lã de rocha nas divisórias, tubo elastomérico no ar-condicionado, lajotas de EPS na laje, forro de isopor e lã de vidro, TermoLaje no terraço, Isotelha® Colonial na cobertura e brises e ripados na fachada.\n\nManda para quem está fechando os materiais da próxima obra.\n📲 WhatsApp (19) 3276-3660\n🛒 loja.isolamax.com.br\n\nLinha Kingspan com entrega em todo o Brasil. EPS, lãs e isolamento técnico com entrega em Campinas e região.\n\n#construcaocivil #isolamentotermico #construtora #etapasdaobra",
+    "legenda": "Etapas da obra, da fundação ao telhado: o material de isolamento que entra em cada uma das 10 etapas, em 60 segundos.\n\nBaldrame em fôrma de EPS, EPS no nivelamento do piso, parede KingWall® com núcleo PIR, lã de rocha nas divisórias, tubo elastomérico no ar-condicionado, lajotas de EPS na laje, forro de isopor com lã de vidro, TermoLaje no terraço, telha sanduíche colonial na cobertura e brise e ripado na fachada.\n\nSalve para conferir na hora de fechar os materiais, ou mande para quem vai tocar a obra.\nOrçamento pelo WhatsApp (19) 3276-3660 · loja.isolamax.com.br\nEntrega em todo o Brasil.\n\n#etapasdaobra #construcaocivil #isolamentotermico #construtora",
     "status": "agendado",
     "tipo": "reel",
     "midias": [
@@ -129,6 +129,18 @@
     ]
   },
   {
+    "post": 17,
+    "titulo": "Reel \"Isotelha Trapezoidal\" v2 (aprovado pelo dono em 19/10)",
+    "quando": "2026-11-03T12:15:00-03:00",
+    "legenda": "Telha sanduíche para galpão: núcleo PIR de 20 a 100 mm e aço por dentro, que dispensa forro adicional.\n\nA Isotelha Trapezoidal, da Kingspan Isoeste, tem aço galvalume por fora, o núcleo PIR (0,022 W/m·K) no meio e o revestimento interno em aço. Largura útil de 1000 mm e peças de até 12 m (Aço/Aço).\n\nForro em branco, preto, madeira clara ou madeira escura.\n\nManda para quem está orçando a cobertura do galpão.\nMonte o telhado no simulador e veja a lista com preço: loja.isolamax.com.br/simulador\nOu chame no WhatsApp (19) 3276-3660.\n\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\n\n#telhasanduiche #isotelha #galpao #coberturametalica #kingspan",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post17/video.mp4"
+    ],
+    "capa": "midia/post17/capa.jpg"
+  },
+  {
     "post": 14,
     "titulo": "Carrossel \"KingWall: a parede em PIR, espessura por espessura\"",
     "quando": "2026-11-04T11:30:00-03:00",
@@ -158,9 +170,9 @@
   },
   {
     "post": 16,
-    "titulo": "Reel \"TermoLaje: a placa que protege a impermeabilização\" (storyboard D)",
+    "titulo": "Reel \"TermoLaje\" v2 (aprovado pelo dono em 19/10)",
     "quando": "2026-11-06T12:15:00-03:00",
-    "legenda": "A manta da laje exposta trabalha com o sol todo dia. A TermoLaje fica por cima e serve de barreira térmica.\n\nÉ EPS de alta densidade (38 kg/m³) com aditivo retardante à chama, em placas de 500 × 1000 × 25 mm. Reduz a variação de temperatura sobre a impermeabilização, evita deformações e prolonga a vida útil da manta.\n\nCondutividade de 0,034 W/m·K, compressão de 276 kPa a 10% de deformação e absorção de água de 2% em volume.\n\nManda para quem cuida da impermeabilização da obra.\n📲 WhatsApp (19) 3276-3660\n🛒 loja.isolamax.com.br\nEntrega em todo o Brasil.\n\n#termolaje #impermeabilizacao #epsisopor #isolamentotermico",
+    "legenda": "TermoLaje: a placa de isopor (EPS 38 kg/m³) que vai por cima da manta e protege a impermeabilização da laje do sol.\n\nCom a placa por cima, a manta sofre menos variação de temperatura, o que evita deformações e prolonga a vida útil dela.\n\nNa ficha: 0,034 W/m·K a 23,9 °C, 276 kPa de resistência à compressão a 10% de deformação, 2% de absorção de água por submersão e aditivo retardante à chama. Placa de 500 × 1000 × 25 mm.\n\nTambém vai em laje sob telhas, parede dupla e dutos de ar-condicionado.\n\nMande para o seu impermeabilizador.\nOrçamento pelo WhatsApp (19) 3276-3660 · loja.isolamax.com.br\nEnviamos para todo o Brasil.\n\n#termolaje #impermeabilizacao #laje #isolamentotermico",
     "status": "agendado",
     "tipo": "reel",
     "midias": [
