@@ -94,19 +94,21 @@ def esperar_pronto(container, limite_s=600):
 def criar_container(item):
     uid = os.environ["IG_USER_ID"]
     tipo, legenda, midias = item["tipo"], item["legenda"], item["midias"]
+    # Rótulo "Info de IA" da Meta: só nos posts marcados com "ia": true (ex.: avatar).
+    ia = {"is_ai_generated": "true"} if item.get("ia") else {}
     if tipo == "imagem":
-        c = api("POST", f"{uid}/media", image_url=url_midia(midias[0]), caption=legenda)["id"]
+        c = api("POST", f"{uid}/media", image_url=url_midia(midias[0]), caption=legenda, **ia)["id"]
     elif tipo == "carrossel":
         filhos = []
         for m in midias:
             f = api("POST", f"{uid}/media", image_url=url_midia(m), is_carousel_item="true")["id"]
             esperar_pronto(f)
             filhos.append(f)
-        c = api("POST", f"{uid}/media", media_type="CAROUSEL", children=",".join(filhos), caption=legenda)["id"]
+        c = api("POST", f"{uid}/media", media_type="CAROUSEL", children=",".join(filhos), caption=legenda, **ia)["id"]
     elif tipo == "reel":
         extra = {"cover_url": url_midia(item["capa"])} if item.get("capa") else {}
         c = api("POST", f"{uid}/media", media_type="REELS", video_url=url_midia(midias[0]),
-                caption=legenda, share_to_feed="true", **extra)["id"]
+                caption=legenda, share_to_feed="true", **extra, **ia)["id"]
     else:
         raise RuntimeError(f"tipo desconhecido: {tipo}")
     esperar_pronto(c)
