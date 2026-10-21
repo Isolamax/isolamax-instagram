@@ -32,6 +32,18 @@
     ]
   },
   {
+    "post": 7,
+    "titulo": "Reel \"Isotelha Colonial\" v4, voz Adriano (aprovado pelo dono em 20/10)",
+    "quando": "2026-10-22T12:15:00-03:00",
+    "legenda": "Telha colonial que parece de barro, mas é aço: a Isotelha Colonial é telha sanduíche com núcleo PIR, da Kingspan Isoeste.\n\nPor fora, aço galvalume pré-pintado. No meio, um núcleo PIR de 40 mm (0,022 W/m·K) que segura o calor do sol. Por baixo, o próprio aço já faz o papel de forro.\n\n▪️ Cores de cima: terracota, marfim ou cinza ardósia\n▪️ Forro: branco, preto, madeira clara ou madeira escura\n▪️ Para residências, escolas, igrejas e comércio\n\nSomos revenda autorizada Kingspan, com entrega em todo o Brasil.\nSimule o seu telhado em loja.isolamax.com.br/simulador ou fale com a gente no WhatsApp (19) 3276-3660.\n\n#telhacolonial #telhasanduiche #telhatermica #isolamentotermico #kingspan",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post07/video.mp4"
+    ],
+    "capa": "midia/post07/capa.jpg"
+  },
+  {
     "post": 6,
     "titulo": "Carrossel \"Revendedor autorizado Kingspan: 5 coisas que mudam na obra\"",
     "quando": "2026-10-23T11:30:00-03:00",
@@ -47,6 +59,18 @@
       "midia/post06/06.jpg",
       "midia/post06/07.jpg"
     ]
+  },
+  {
+    "post": 18,
+    "titulo": "Reel \"Oferta telhas onduladas\" v4 15 s, voz Adriano, preço só pelo WhatsApp (aprovado pelo dono em 20/10)",
+    "quando": "2026-10-24T12:15:00-03:00",
+    "legenda": "Oferta exclusiva pelo WhatsApp: telha ondulada térmica com núcleo PIR a partir de R$ 89,90/m² no Pix, só na compra direta.\n\n▪️ Galvalume: de R$ 125,80 por R$ 89,90/m² no Pix (R$ 219,36 a peça)\n▪️ Terracota: de R$ 156,99 por R$ 109,90/m² no Pix (R$ 268,16 a peça)\n\nPeça de 1,00 × 2,44 m (cobre 2,44 m²), com núcleo PIR de 15 mm e filme protetivo branco embaixo.\n\nEsse preço é exclusivo pelo WhatsApp: na loja online vale o preço normal (o \"de\" é o preço do site).\nOferta por tempo limitado. Retire em Campinas ou peça com frete calculado pelo CEP.\n\nChame no WhatsApp (19) 3276-3660.\n\n#telhatermica #telhaondulada #telhasanduiche #isolamentotermico #campinas",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post18/video.mp4"
+    ],
+    "capa": "midia/post18/capa.jpg"
   },
   {
     "post": 9,
@@ -118,6 +142,19 @@
       "midia/post12/05.jpg",
       "midia/post12/06.jpg"
     ]
+  },
+  {
+    "post": 17,
+    "titulo": "Reel \"Isotelha Trapezoidal\" v4, voz Adriano (aprovado pelo dono em 20/10), Trial Reel",
+    "quando": "2026-11-03T12:15:00-03:00",
+    "legenda": "Vai cobrir um galpão? Antes de fechar a telha sanduíche, responda a 4 perguntas. Salve e envie para quem vai orçar a obra.\n\n1. A telha isola o calor? Sim. A Isotelha Trapezoidal tem núcleo PIR entre duas chapas de aço (0,022 W/m·K).\n2. Qual espessura? O núcleo vem com 20, 30, 50, 70 ou 100 mm.\n3. Precisa de forro? Com aço por dentro, dispensa forro adicional. O forro pode ser branco, preto, madeira clara ou madeira escura.\n4. Quem entrega? A Isolamax, revenda autorizada Kingspan, entrega em todo o Brasil.\n\nPeças de até 12 m (aço/aço), com largura útil de 1 m.\nSimule a cobertura em loja.isolamax.com.br/simulador ou chame no WhatsApp (19) 3276-3660.\n\n#telhasanduiche #telhatermoacustica #galpao #coberturametalica #kingspan",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post17/video.mp4"
+    ],
+    "capa": "midia/post17/capa.jpg",
+    "trial": "SS_PERFORMANCE"
   },
   {
     "post": 14,

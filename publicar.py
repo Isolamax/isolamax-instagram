@@ -107,8 +107,20 @@ def criar_container(item):
         c = api("POST", f"{uid}/media", media_type="CAROUSEL", children=",".join(filhos), caption=legenda, **ia)["id"]
     elif tipo == "reel":
         extra = {"cover_url": url_midia(item["capa"])} if item.get("capa") else {}
-        c = api("POST", f"{uid}/media", media_type="REELS", video_url=url_midia(midias[0]),
-                caption=legenda, share_to_feed="true", **extra, **ia)["id"]
+        params = dict(media_type="REELS", video_url=url_midia(midias[0]), caption=legenda,
+                      share_to_feed="true", **extra, **ia)
+        # Trial Reel ("trial": "SS_PERFORMANCE" ou "MANUAL"): vai primeiro só para quem não
+        # segue. Se a Meta recusar o trial, publica como Reel normal e anota em obs.
+        if item.get("trial"):
+            try:
+                c = api("POST", f"{uid}/media", **params,
+                        trial_params=json.dumps({"graduation_strategy": item["trial"]}))["id"]
+            except RuntimeError as e:
+                print(f"post {item['post']}: Meta recusou o Trial Reel ({e}); vai como Reel normal")
+                item["obs"] = f"trial recusado pela Meta, saiu como Reel normal: {str(e)[:200]}"
+                c = api("POST", f"{uid}/media", **params)["id"]
+        else:
+            c = api("POST", f"{uid}/media", **params)["id"]
     else:
         raise RuntimeError(f"tipo desconhecido: {tipo}")
     esperar_pronto(c)
@@ -136,6 +148,8 @@ def verificar(fila):
             erros.append(f"post {n}: legenda com mais de 2200 caracteres")
         if item["legenda"].count("#") > 30:
             erros.append(f"post {n}: mais de 30 hashtags")
+        if item.get("trial") and (item["tipo"] != "reel" or item["trial"] not in ("SS_PERFORMANCE", "MANUAL")):
+            erros.append(f"post {n}: trial só em reel, com SS_PERFORMANCE ou MANUAL")
         if item["tipo"] == "carrossel" and not 2 <= len(item["midias"]) <= 10:
             erros.append(f"post {n}: carrossel precisa de 2 a 10 imagens")
         for m in item["midias"] + ([item["capa"]] if item.get("capa") else []):

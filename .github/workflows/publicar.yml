@@ -5,6 +5,9 @@ name: Publicar no Instagram
 on:
   schedule:
     - cron: "*/15 * * * *"
+    # Reforço perto dos horários dos posts (11:30, 12:00 e 12:15 de Brasília = 14:30 a 15:15 UTC):
+    # o GitHub tem pulado boa parte das rodadas de 15 em 15 min (em 20/10 rodou só 5 vezes).
+    - cron: "7,22,37,52 14-16 * * *"
   workflow_dispatch:
 
 permissions:
