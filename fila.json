@@ -132,7 +132,10 @@
       "midia/post20/video.mp4"
     ],
     "capa": "midia/post20/capa.jpg",
-    "status": "agendado"
+    "status": "publicado",
+    "media_id": "18099362132096789",
+    "link": "https://www.instagram.com/reel/De5AF2mgMQS/",
+    "publicado_em": "2026-10-24T20:34:35+00:00"
   },
   {
     "post": 9,
