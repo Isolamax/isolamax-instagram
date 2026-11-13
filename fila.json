@@ -293,13 +293,25 @@
     "titulo": "Reel \"Qual destes núcleos sobra depois do fogo?\" (vídeo 208 do Yann, voz Adriano; aprovado pelo dono em 12/11)",
     "quando": "2026-11-13T12:15:00-03:00",
     "legenda": "Orçamento no WhatsApp (19) 3276-3660.\n\nTeste de chama em três núcleos de telha sanduíche: EPS (isopor), PUR e PIR.\n\nO EPS derrete, o PUR pega fogo e o PIR só escurece por fora.\nÉ por isso que não vendemos telha de EPS: trabalhamos só com Isotelha de PIR da Kingspan.\n\nMande para quem está escolhendo telha.\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\nWhatsApp (19) 3276-3660\n\n#telhasanduiche #isotelha #telhatermica #pir",
-    "status": "suspenso",
+    "status": "substituido",
     "tipo": "reel",
     "midias": [
       "midia/post22/video.mp4"
     ],
     "capa": "midia/post22/capa.jpg",
-    "obs": "Suspenso pelo dono em 13/11, 00h15: o vídeo do fogo vai ser refeito."
+    "obs": "Suspenso pelo dono em 13/11, 00h15: o vídeo do fogo vai ser refeito. Substituído pelo post 24 (fogo v6, voz Sofia) em 13/11."
+  },
+  {
+    "post": 24,
+    "titulo": "Reel \"Mito ou verdade? Telha de isopor é segura no fogo?\" v6, voz Sofia (aprovado pelo dono em 13/11; substitui o 22)",
+    "quando": "2026-11-14T12:15:00-03:00",
+    "legenda": "Telha de isopor é segura no fogo? 🔥 Testamos 3 telhas sanduíche na mesma chama. Orçamento no WhatsApp: link na bio.\n\nMito ou verdade? MITO. Veja o que sobrou de cada núcleo:\n🔴 Isopor (EPS): derreteu\n🟠 Poliuretano (PUR): não pegou fogo, mas soltou muita fumaça preta e tóxica\n🟢 PIR: só escureceu por fora, formou uma casca e segurou\n\nPor isso a Isolamax não vende telha de isopor. Só telha sanduíche de PIR, Kingspan original, com garantia de fábrica.\n\n📲 Orçamento no WhatsApp (19) 3276-3660 ou pelo link da bio. Mande a medida do telhado e o CEP.\n\nEnvie para quem vai construir ou reformar.\n\nÚnica loja autorizada Kingspan em Campinas. Entrega em todo o Brasil.\n\n#telhasanduiche #telhadeisopor #telhatermica #pir #kingspan",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post24/video.mp4"
+    ],
+    "capa": "midia/post24/capa.jpg"
   },
   {
     "post": 23,
