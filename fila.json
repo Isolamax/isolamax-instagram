@@ -339,5 +339,18 @@
       "midia/post25/video.mp4"
     ],
     "capa": "midia/post25/capa.jpg"
+  },
+  {
+    "post": "26",
+    "titulo": "Trial Reel \"Atenção, construtoras de Campinas\" (planilha de cotação), voz Sofia; aprovado pelo dono em 14/11 (\"pode enviar agora\")",
+    "quando": "2026-11-14T16:21:00-03:00",
+    "legenda": "Orçamento no WhatsApp (19) 3276-3660.\n\nConstrutora de Campinas: antes de fechar a cobertura, confira na cotação:\n✓ revenda autorizada Kingspan, com nota fiscal\n✓ orçamento formal, com ficha técnica e prazo por escrito\n✓ faturamento para empresa, com cadastro aprovado\n✓ entrega em todo o Brasil\n\nNa Isolamax, tudo isso já vem no orçamento. Telha sanduíche e painéis Kingspan com núcleo de PIR.\n\nMande para o comprador ou o engenheiro da obra.\nRevendedor autorizado Kingspan. Entrega em todo o Brasil.\nWhatsApp (19) 3276-3660\n\n#telhasanduiche #construtoracampinas #kingspan #coberturametalica #construcaocivil",
+    "status": "agendado",
+    "tipo": "reel",
+    "midias": [
+      "midia/post26/video.mp4"
+    ],
+    "capa": "midia/post26/capa.jpg",
+    "trial": "SS_PERFORMANCE"
   }
 ]
