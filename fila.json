@@ -361,13 +361,16 @@
     "titulo": "Trial Reel \"Esse anúncio tem 8 segundos\" (HyperFrames, sem narração); aprovado pelo dono em 14/11 (\"gostei muito\", outro Trial hoje)",
     "quando": "2026-11-14T18:30:00-03:00",
     "legenda": "Orçamento no WhatsApp (19) 3276-3660.\n\nEsse anúncio tem 8 segundos. Telha sanduíche Kingspan, com núcleo de PIR, entregue em todo o Brasil. O resto a gente resolve no WhatsApp.\n\nRevendedor autorizado Kingspan.\nWhatsApp (19) 3276-3660\n\n#telhasanduiche #telhatermica #kingspan #cobertura #construcao",
-    "status": "agendado",
+    "status": "publicado",
     "tipo": "reel",
     "midias": [
       "midia/post27/video.mp4"
     ],
     "capa": "midia/post27/capa.jpg",
-    "trial": "SS_PERFORMANCE"
+    "trial": "SS_PERFORMANCE",
+    "media_id": "18017541416987704",
+    "link": "https://www.instagram.com/reel/DfvRR1gj9p6/",
+    "publicado_em": "2026-11-14T22:23:48+00:00"
   },
   {
     "post": "28",
