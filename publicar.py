@@ -223,7 +223,7 @@ def main():
         return 1 if erros else 0
     if cmd == "testar":
         n = int(sys.argv[2])
-        item = next(i for i in fila if i["post"] == n)
+        item = next(i for i in fila if str(i["post"]) == str(n))  # a fila tem número como inteiro (antigos) e como texto (novos)
         c = criar_container(item)
         print(f"post {n}: contêiner {c} pronto (FINISHED). NÃO publicado; expira sozinho em 24 h.")
         return 0
